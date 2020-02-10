@@ -1,28 +1,28 @@
 # HackintoshConfig
 Contains all hackintosh configuration files in case my computer needs to be rebuilt.
-##PC Specs
-###Processor
+## PC Specs
+### Processor
 Intel Core i5 8400
-###Motherboard
+### Motherboard
 ASUS Prime H370M-Plus
-###RAM
+### RAM
 16GB 2133MHz G Skill Aegis DDR4 
-###Storage
-####SSD #1 (Windows)
+### Storage
+#### SSD #1 (Windows)
 WD Blue SN500 NVMe M.2 SSD, 250GB
-####SSD #2 (MacOS)
+#### SSD #2 (MacOS)
 Kingston SSDNow UV550 240GB
-####HDD #1 (Windows)
+#### HDD #1 (Windows)
 WD Blue 1TB 7200RPM 
-####HDD #2 (Windows)
+#### HDD #2 (Windows)
 Seagate Barracuda 1TB 7200 RPM
-####HDD #3 (MacOS)
+#### HDD #3 (MacOS)
 Seagate Barracuda 1TB 7200 RPM
-###GPU
+### GPU
 Sapphire PULSE Radeon RX 580 8GB GDDR5
-###Case
+### Case
 Corsair SPEC-05 (Black)
-###Misc.
+### Misc.
 Monitor 1: ASUS VX228H 21.5 Inch
 Monitor 2: Insignia 24 Inch
 Monitor 3: Samsung 22 Inch
