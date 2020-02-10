@@ -1,5 +1,6 @@
-# HackintoshConfig
+# Hackintosh Config
 Contains all hackintosh configuration files in case my computer needs to be rebuilt.
+Contains files such as kexts, clover configurator, efi files, and plugins/features used in my workflow.
 ## PC Specs
 ### Processor
 Intel Core i5 8400
