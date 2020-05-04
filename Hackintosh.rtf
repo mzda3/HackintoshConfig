@@ -7,16 +7,33 @@
 
 \f0\fs24 \cf0 Hackintosh Setup\
 \
-To Do:\
-	-try custom config.plist to boot into installer\
-	-if that fails, try plist here {\field{\*\fldinst{HYPERLINK "https://github.com/corpnewt/Hackintosh-Guide/blob/master/Configs/CoffeeLake/config.plist"}}{\fldrslt 
-\f1 \cf2 \expnd0\expndtw0\kerning0
-\ul \ulc2 \outl0\strokewidth0 \strokec2 https://github.com/corpnewt/Hackintosh-Guide/blob/master/Configs/CoffeeLake/config.plist}}\
-	-Else, try making windows able to read macOS to recover config file\
-	-Try Zaki\'92s USB otherwise\
-\
  \
 What happened: I tried changing my clover theme (added folders in clover/themes and updated config.plist) and now the computer won\'92t boot. \
+\
+Restore Plan:\
+In event of computer crashing: 	\
+	1. Use bootable USB to boot into clover\
+	2. Format main drive\
+	3. Install macOS on main drive\
+	4. Boot into main drive, replace EFI with USB EFI settings\
+	5. Use time machine to get missing files + then set up time machine with new computer\
+\
+\
+To Do:\
+	-Download mojave installer and make bootable USB with all kexts\
+	-Install clover on USB \
+	-Add config.pilst from GitHub coffee lake and try installing (add {\field{\*\fldinst{HYPERLINK "https://www.tonymacx86.com/threads/asus-rog-strix-z390-e-gaming.282709/page-2#post-1998962"}}{\fldrslt 
+\f1 \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 \outl0\strokewidth0 \strokec2 https://www.tonymacx86.com/threads/asus-rog-strix-z390-e-gaming.282709/page-2#post-1998962}}
+\f1 \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 \outl0\strokewidth0 \strokec2 )\
+	-Format main drive and reinstall mojave
+\f0 \cf0 \kerning1\expnd0\expndtw0 \ulnone \outl0\strokewidth0 \
+	-Boot into mojave from main drive and set up EFI partition properly (download clover)\
+	-Use time machine to get missing files + set up time machine with new computer\
+	-Download clover theme loader and change theme to dark \
+\
+\
 \
 \pard\pardeftab720\sl280\partightenfactor0
 {\field{\*\fldinst{HYPERLINK "https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/"}}{\fldrslt 
