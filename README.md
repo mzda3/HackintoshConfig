@@ -24,10 +24,10 @@ Sapphire PULSE Radeon RX 580 8GB GDDR5
 ### Case
 Corsair SPEC-05 (Black)
 ### Misc.
-Monitor 1: ASUS VX228H 21.5 Inch
-Monitor 2: Insignia 24 Inch
-Monitor 3: Samsung 22 Inch
-Network Card: TP-Link N300 TL-WN881ND (NO LONGER WORKS WITH MACOS PAST MOJAVE)
-Keyboard: Corsair K70
-Mouse: Razer Deathadder
-Headset: Logitech G230
+- Monitor 1: ASUS VX228H 21.5 Inch
+- Monitor 2: Insignia 24 Inch
+- Monitor 3: Samsung 22 Inch
+- Network Card: TP-Link N300 TL-WN881ND (NO LONGER WORKS WITH MACOS PAST MOJAVE)
+- Keyboard: Razer Blackwidow Chroma V2 Tournament Edition
+- Mouse: Logitech G502
+- Audio Technica ANC700BT
